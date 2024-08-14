@@ -67,3 +67,6 @@ def magical_words(word_list):
     print("Duplicate Words: None")
   else:
     print("Duplicate Words:",', '.join(Duplicate_List))
+
+
+magical_words(["california", "florida", "atlanta", "sweden", "delhi", "alavala", "CALIFORNIA"])
